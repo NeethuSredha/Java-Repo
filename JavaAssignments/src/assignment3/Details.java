@@ -3,7 +3,7 @@ package assignment3;
 import java.util.*;
 
 public class Details {
-	static Scanner sc = new Scanner(System.in);
+	static Scanner sc = new Scanner(System.in); //scanner
 	static String name;
 	static int age;
 
